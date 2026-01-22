@@ -1,32 +1,29 @@
-# 📊 Banking Dashboard – Power BI Project
+ Banking Dashboard – Power BI Project
 
-## 📌 Project Overview
+ Project Overview
 
 The **Banking Dashboard** is an end-to-end **Power BI data visualization project** designed to analyze banking operations such as **loans, deposits, customer distribution, fees, and engagement metrics**.
 It provides interactive insights for stakeholders using dynamic filters, KPIs, and drill-through analysis.
 
----
 
-## 🎯 Business Objectives
+
+ Business Objectives
 
 * Monitor **bank performance** across loans and deposits
 * Analyze **customer segmentation** by gender, nationality, income band, and relationship type
 * Track **key financial KPIs** such as total loans, deposits, fees, and account balances
 * Enable **data-driven decision making** using interactive dashboards
 
----
-
-## 🛠 Tools & Technologies
+Tools & Technologies
 
 * **Power BI Desktop**
 * **DAX** – Measures & calculations
 * **Power Query** – Data cleaning & transformation
 * **Excel / CSV** – Source data (assumed)
 
----
-## 📊 Dashboard Pages & Features
+ Dashboard Pages & Features
 
-### 🏠 Home Page
+ Home Page
 
 * High-level KPIs:
 
@@ -41,9 +38,8 @@ It provides interactive insights for stakeholders using dynamic filters, KPIs, a
   * Gender
 * Navigation buttons for smooth page transitions
 
----
 
-### 💳 Loan Analysis
+ Loan Analysis
 
 * KPIs:
 
@@ -63,9 +59,9 @@ It provides interactive insights for stakeholders using dynamic filters, KPIs, a
   * Gender
   * Investment Advisor
 
----
 
-### 💰 Deposit Analysis
+
+ Deposit Analysis
 
 * KPIs:
 
@@ -83,7 +79,7 @@ It provides interactive insights for stakeholders using dynamic filters, KPIs, a
 
 ---
 
-### 📋 Summary Page
+ Summary Page
 
 * Consolidated view of:
 
